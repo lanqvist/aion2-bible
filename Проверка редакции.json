@@ -1,11 +1,11 @@
 {
-  "articles": 19,
+  "articles": 20,
   "original_images": 90,
   "translated_images": 6,
-  "terms": 32,
+  "terms": 33,
   "external_runtime_dependencies": 0,
   "source_date": "2026-10-04",
-  "portable_bytes": 56460866,
+  "portable_bytes": 56483284,
   "checks": [
     "Desktop home and article layout inspected in browser",
     "Mobile 390px layout inspected; no page-wide horizontal overflow",
