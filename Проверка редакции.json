@@ -1,0 +1,24 @@
+{
+  "articles": 16,
+  "original_images": 90,
+  "translated_images": 6,
+  "terms": 26,
+  "external_runtime_dependencies": 0,
+  "source_date": "2026-10-04",
+  "portable_bytes": 56384769,
+  "checks": [
+    "Desktop home and article layout inspected in browser",
+    "Mobile 390px layout inspected; no page-wide horizontal overflow",
+    "Search opened exact paragraph and highlighted query",
+    "Bookmark persisted after reload",
+    "Gallery translation filter produced 6 images",
+    "Original/translated image toggle verified",
+    "Glossary Accuracy found by Russian term",
+    "Mobile menu and horizontally scrolling table checked"
+  ],
+  "limits": [
+    "Full Global accuracy is not independently verified",
+    "Six images translated; other illustrations have Russian annotations",
+    "Original source export remains in first-edition folder"
+  ]
+}

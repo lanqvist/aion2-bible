@@ -1,0 +1,50 @@
+[
+  {
+    "id": 22,
+    "src": "translations/image22-ru.png",
+    "accepted": true,
+    "partial": false,
+    "tool": "image_gen.imagegen",
+    "note": "Справочный перевод, не скриншот русского клиента. Исходные числа и значения сверены визуально; исходник сохранён."
+  },
+  {
+    "id": 60,
+    "src": "translations/image60-ru.png",
+    "accepted": true,
+    "partial": false,
+    "tool": "image_gen.imagegen",
+    "note": "Справочный перевод, не скриншот русского клиента. Исходные числа и значения сверены визуально; исходник сохранён."
+  },
+  {
+    "id": 41,
+    "src": "translations/image41-ru.png",
+    "accepted": true,
+    "partial": false,
+    "tool": "image_gen.imagegen",
+    "note": "Справочный перевод, не скриншот русского клиента. Исходные числа и значения сверены визуально; исходник сохранён."
+  },
+  {
+    "id": 48,
+    "src": "translations/image48-ru.png",
+    "accepted": true,
+    "partial": true,
+    "tool": "image_gen.imagegen",
+    "note": "Справочный перевод, не скриншот русского клиента. Исходные числа и значения сверены визуально; исходник сохранён."
+  },
+  {
+    "id": 15,
+    "src": "translations/image15-ru.png",
+    "accepted": true,
+    "partial": false,
+    "tool": "image_gen.imagegen",
+    "note": "Справочный перевод, не скриншот русского клиента. Исходные числа и значения сверены визуально; исходник сохранён."
+  },
+  {
+    "id": 83,
+    "src": "translations/image83-ru.png",
+    "accepted": true,
+    "partial": false,
+    "tool": "image_gen.imagegen",
+    "note": "Справочный перевод, не скриншот русского клиента. Исходные числа и значения сверены визуально; исходник сохранён."
+  }
+]
